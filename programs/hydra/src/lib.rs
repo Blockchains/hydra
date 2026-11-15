@@ -1,7 +1,7 @@
 use anchor_lang::prelude::*;
 use anchor_lang::system_program;
 
-declare_id!("HmHxoZHi5GN3187RoXPDAXcjY5j1ghTdXn54u9pVzrvp");
+declare_id!("EKEHJMZiGUex64aogXJdt7pRL66Ff46yLm2amUG6PWh8");
 
 /// Max depth of agent tree to prevent unbounded recursion
 const MAX_DEPTH: u8 = 5;
